@@ -121,7 +121,7 @@ const options = [
                         onChange={this.onChange}
                         options={options}
                         error = {errors.status}
-                        info = "IDEA BOY!!"
+                        info = "Status"
                         />
 
                     <TextFieldGroup
